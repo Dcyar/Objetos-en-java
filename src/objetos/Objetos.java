@@ -13,6 +13,9 @@ public class Objetos {
         nuevoPerro.correr();
         nuevoPerro.jugar();
         nuevoPerro.jugarConNinio("Carlitos");
+
+
+        System.out.println("Mensaje desde otro usuario de GitHub - Dcyar -");
     }
 
 }
