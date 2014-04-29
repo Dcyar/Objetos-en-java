@@ -13,6 +13,12 @@ public class Objetos {
         nuevoPerro.correr();
         nuevoPerro.jugar();
         nuevoPerro.jugarConNinio("Carlitos");
-    }
 
+        System.out.println();
+
+        Automovil nuevo = new Automovil("ferrari","amarillo", 0);
+        nuevo.encender();
+        nuevo.arrancar();
+        nuevo.apagar();
+    }
 }
