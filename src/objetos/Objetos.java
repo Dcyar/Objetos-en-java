@@ -20,8 +20,6 @@ public class Objetos {
         nuevo.encender();
         nuevo.arrancar();
         nuevo.apagar();
-
-        System.out.println("Mensaje desde otro usuario de GitHub - Dcyar -");
     }
 
 }
