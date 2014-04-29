@@ -16,6 +16,11 @@ public class Objetos {
 
         System.out.println();
 
+        Automovil nuevo = new Automovil("ferrari","amarillo", 0);
+        nuevo.encender();
+        nuevo.arrancar();
+        nuevo.apagar();
+
         System.out.println("Mensaje desde otro usuario de GitHub - Dcyar -");
     }
 
